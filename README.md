@@ -12,7 +12,7 @@ Number of POSCARs generated: 23,864
 
 Main script: ``mx.sh``
 
-INput file for the script: ``mx.in``
+Input file for the script: ``mx.in``
 
 Related publication: A. C. Rajan et al. Chem. Mater 2018, https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.8b00686 
 
