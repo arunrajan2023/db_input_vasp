@@ -1,5 +1,5 @@
 #!/bin/bash
-mx=/home/arun/work/ML/2.BB-31000-geom/x.code/2.bash/Potentials/Potentials/1.for-MX
+mx=Potentials/Potentials/1.for-MX
 for kk in $(ls -d */)
 do
 cd $kk
