@@ -1,0 +1,15 @@
+# db_input_vasp
+
+
+# POSCARs generation 
+
+Material(s): Functionalized MXenes
+
+Number of MXenes: 23,864
+
+Number of POSCARs generated: 23,864
+
+Related publication: https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.8b00686 
+
+Related MXene database: aNANt (https://anant.mrc.iisc.ac.in/)
+
