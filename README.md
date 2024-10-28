@@ -17,7 +17,9 @@ Related MXene database (with 23,800 optimized structures by VASP package): aNANt
 
 ## Prerequisites
 Before using this package, ensure the following software/files is installed/available:
-- **POTCAR**: Pseudopotential for each element from the VASP package
+- **POTCAR**: Pseudopotential for each element from the VASP package.
+      - Ensure that you rename each POTCAR by its actual element name (ex: POTCAR for carbon should be just `C`)
+      - Place all renamed POTCAR files in the Potentials/ folder 
 - **Bash**: Required to run the automation scripts. Bash is available by default on Linux/macOS. 
 
 ### How to run the script?
@@ -33,10 +35,19 @@ This command produces POSCAR files inside new folders, which can be located by
 ls -d *-*-*-*/
 ```
 
+To generate POTCAR for a given POSCAR, run the script as below
+```bash
+bash potcar-loop.sh
+```
+
+If you already have sample INCAR and KPOINTS files, then to copy them to each generated MXenes folder, try the following command on the `bash` shell
+```bash
+for i in $(ls -d *-*-*-*) do; cp INCAR KPOINTS $i; done
+```
 
 ### Clean up the folder
 ```bash
-rm -f C N *U *D *list && rm -rf *-*-*-*/
+bash cleanup.sh
 ```
 
 ### ⚠️ Warning
