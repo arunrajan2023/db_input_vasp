@@ -45,7 +45,7 @@ If you already have sample INCAR and KPOINTS files, then to copy them to each ge
 ```bash
 for i in $(ls -d */)
 do
-cp INCAR POSCAR $i
+cp INCAR KPOINTS $i
 done
 ```
 
