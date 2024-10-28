@@ -9,12 +9,6 @@ Number of MXenes: 31,152
 
 Number of POSCARs generated: 31,152
 
-### More information on DFT-optimized structures
-
-Related publication: A. C. Rajan et al. Chem. Mater. 2018, https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.8b00686 
-
-Related MXene database (with 23,800 optimized structures by VASP package): aNANt (https://anant.mrc.iisc.ac.in/)
-
 ## Prerequisites
 Before using this package, ensure the following software/files is installed/available:
 - **POTCAR**: Pseudopotential for each element from the VASP package.
@@ -56,6 +50,12 @@ bash cleanup.sh
 
 ### ⚠️ Warning
 Ensure that generated structures are chemically meaningful for optimization. Submit only the relevant structures for DFT calculation.
+
+### More information on DFT-optimized structures
+
+Related publication: A. C. Rajan et al. Chem. Mater. 2018, https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.8b00686 
+
+Related MXene database (with 23,800 optimized structures by VASP package): aNANt (https://anant.mrc.iisc.ac.in/)
 
 ### License
 &copy; Arun Rajan
