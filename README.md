@@ -1,4 +1,4 @@
-# Project Title: **MXene Dataset Generation (input generation for DFT calculation using VASP)**
+# **MXene Dataset Generation (input generation for DFT calculation using VASP)**
 
 ## Overview
 This repository contains a Shell script designed to generate initial structures for their DFT optimization. The Shell script focuses on generating input structures of POSCAR format for HPC calculations using the VASP package.
