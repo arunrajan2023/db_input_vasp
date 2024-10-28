@@ -39,3 +39,5 @@ ls -d *-*-*-*/
 rm -f C N *U *D *list && rm -rf *-*-*-*/
 ```
 
+### ⚠️ Warning
+Ensure that you have generated chemically meaningful structures for optimization. Submit only the relevant structures for DFT calculation.
