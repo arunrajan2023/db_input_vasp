@@ -24,5 +24,14 @@ Before using this package, ensure the following software/files is installed/avai
 You can simply run:
 
 ```bash
-bash mx.sh
+bash mx.sh```
+
+
+This command produces POSCAR files inside new folders, which can be located by
+```bash
+ls -d *-*-*-*/```
+
+
+### Clean up the folder
+rm -f C N *U *D *list && rm -rf *-*-*-*/ 
 
