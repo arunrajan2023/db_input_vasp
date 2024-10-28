@@ -5,15 +5,15 @@ This repository contains a Shell script designed to generate initial structures 
 
 Material(s): Functionalized MXenes
 
-Number of MXenes: 23,864
+Number of MXenes: 31,152
 
-Number of POSCARs generated: 23,864
+Number of POSCARs generated: 31,152
 
 ### More information on DFT-optimized structures
 
 Related publication: A. C. Rajan et al. Chem. Mater. 2018, https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.8b00686 
 
-Related MXene database (with VASP optimized structures): aNANt (https://anant.mrc.iisc.ac.in/)
+Related MXene database (with 23,800 optimized structures by VASP package): aNANt (https://anant.mrc.iisc.ac.in/)
 
 ## Prerequisites
 Before using this package, ensure the following software/files is installed/available:
