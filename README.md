@@ -40,4 +40,7 @@ rm -f C N *U *D *list && rm -rf *-*-*-*/
 ```
 
 ### ⚠️ Warning
-Ensure that you have generated chemically meaningful structures for optimization. Submit only the relevant structures for DFT calculation.
+Ensure that generated structures are chemically meaningful for optimization. Submit only the relevant structures for DFT calculation.
+
+### License
+&copy; Arun Rajan
