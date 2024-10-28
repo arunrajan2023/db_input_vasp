@@ -1,5 +1,5 @@
 #!/bin/bash
-mx=Potentials/Potentials/1.for-MX
+mx=Potentials
 for kk in $(ls -d */)
 do
 cd $kk

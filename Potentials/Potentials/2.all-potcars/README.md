@@ -1,1 +1,0 @@
-Store pseudopotential files here!

@@ -1,1 +1,4 @@
 new/
+.gitignore
+.gitattributes
+.git/
