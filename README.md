@@ -19,8 +19,8 @@ Related MXene database (with 23,800 optimized structures by VASP package): aNANt
 Before using this package, ensure the following software/files is installed/available:
 - **POTCAR**: Pseudopotential for each element from the VASP package.
    - Ensure that you rename each POTCAR by its actual element name 
-      - ex: POTCAR for carbon should be just `C`
    - Place all renamed POTCAR files in the Potentials/ folder
+      - ex: POTCAR for carbon should be just `Potentials/C`
 - **Bash**: Required to run the automation scripts. Bash is available by default on Linux/macOS. 
 
 ### How to run the script?
