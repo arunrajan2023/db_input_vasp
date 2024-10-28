@@ -9,6 +9,9 @@ Number of MXenes: 31,152
 
 Number of POSCARs generated: 31,152
 
+### ⚠️ Warning
+Ensure that generated structures are chemically meaningful for optimization. Submit only the relevant structures for DFT calculation.
+
 ## Prerequisites
 Before using this package, ensure the following software/files is installed/available:
 - **POTCAR**: Pseudopotential for each element from the VASP package.
@@ -47,9 +50,6 @@ done
 ```bash
 bash cleanup.sh
 ```
-
-### ⚠️ Warning
-Ensure that generated structures are chemically meaningful for optimization. Submit only the relevant structures for DFT calculation.
 
 ## More information on DFT-optimized structures
 
