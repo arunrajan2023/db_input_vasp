@@ -37,7 +37,7 @@ bash potcar-loop.sh
 
 If you already have sample INCAR and KPOINTS files, then to copy them to each generated MXenes folder, try the following command on the `bash` shell
 ```bash
-for i in $(ls -d */)
+for i in $(ls -d *-*-*-*/)
 do
 cp INCAR KPOINTS $i
 done
