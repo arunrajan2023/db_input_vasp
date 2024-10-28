@@ -53,9 +53,9 @@ Ensure that generated structures are chemically meaningful for optimization. Sub
 
 ## More information on DFT-optimized structures
 
-Related publication: A. C. Rajan et al. Chem. Mater. 2018, https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.8b00686 
-
 Related MXene database (with 23,800 optimized structures by VASP package): aNANt (https://anant.mrc.iisc.ac.in/)
+
+Related publication: A. C. Rajan et al. Chem. Mater. 2018, https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.8b00686 
 
 ## License
 &copy; Arun Rajan
