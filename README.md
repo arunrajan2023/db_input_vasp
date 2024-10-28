@@ -18,7 +18,7 @@ Before using this package, ensure the following software is installed:
 You can simply run:
 
 ```bash
-bash mx.sh
+bash mx.sh```
 
 ### More information
 
