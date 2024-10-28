@@ -58,4 +58,4 @@ Related MXene database (with 23,800 optimized structures by VASP package): aNANt
 Related publication: A. C. Rajan et al. Chem. Mater. 2018, https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.8b00686 
 
 ## License
-&copy; Arun Rajan
+&copy; Arun Rajan @ 2016
